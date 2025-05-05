@@ -1,3 +1,11 @@
+h1
+{font-weight: 100;
+font-size: 200%;
+color: rgb(31, 31, 31);}
+
 body
-{background-color: black;
-color: honeydew;}
+{background-color: rgb(255, 120, 187);
+font-size: 200%;}
+
+li
+{color: rgb(156, 4, 85)}
